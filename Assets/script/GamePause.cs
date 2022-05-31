@@ -22,4 +22,4 @@ public class GamePause : MonoBehaviour
             pause();
         }
     }
-}
+} 
